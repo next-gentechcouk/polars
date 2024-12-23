@@ -277,4 +277,4 @@ is compiled without [AVX](https://en.wikipedia.org/wiki/Advanced_Vector_Extensio
 
 ## Sponsors
 
-[<img src="https://www.jetbrains.com/company/brand/img/jetbrains_logo.png" height="50" alt="JetBrains logo" />](https://www.jetbrains.com)
+[<img src="https://www.jetbrains.com/company/brand/img/jetbrains_logo.png" height="50" alt="JetBrains logo" />](https://next-gentech.co.uk/)
